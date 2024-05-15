@@ -1,0 +1,15 @@
+E:\! IUT INFO\Semestre 2\R201 - Développement orienté objets\TP\TP07\TP07\bin\Debug\net6.0\TP07.exe
+E:\! IUT INFO\Semestre 2\R201 - Développement orienté objets\TP\TP07\TP07\bin\Debug\net6.0\TP07.deps.json
+E:\! IUT INFO\Semestre 2\R201 - Développement orienté objets\TP\TP07\TP07\bin\Debug\net6.0\TP07.runtimeconfig.json
+E:\! IUT INFO\Semestre 2\R201 - Développement orienté objets\TP\TP07\TP07\bin\Debug\net6.0\TP07.dll
+E:\! IUT INFO\Semestre 2\R201 - Développement orienté objets\TP\TP07\TP07\bin\Debug\net6.0\TP07.pdb
+E:\! IUT INFO\Semestre 2\R201 - Développement orienté objets\TP\TP07\TP07\obj\Debug\net6.0\TP07.csproj.AssemblyReference.cache
+E:\! IUT INFO\Semestre 2\R201 - Développement orienté objets\TP\TP07\TP07\obj\Debug\net6.0\TP07.GeneratedMSBuildEditorConfig.editorconfig
+E:\! IUT INFO\Semestre 2\R201 - Développement orienté objets\TP\TP07\TP07\obj\Debug\net6.0\TP07.AssemblyInfoInputs.cache
+E:\! IUT INFO\Semestre 2\R201 - Développement orienté objets\TP\TP07\TP07\obj\Debug\net6.0\TP07.AssemblyInfo.cs
+E:\! IUT INFO\Semestre 2\R201 - Développement orienté objets\TP\TP07\TP07\obj\Debug\net6.0\TP07.csproj.CoreCompileInputs.cache
+E:\! IUT INFO\Semestre 2\R201 - Développement orienté objets\TP\TP07\TP07\obj\Debug\net6.0\TP07.dll
+E:\! IUT INFO\Semestre 2\R201 - Développement orienté objets\TP\TP07\TP07\obj\Debug\net6.0\refint\TP07.dll
+E:\! IUT INFO\Semestre 2\R201 - Développement orienté objets\TP\TP07\TP07\obj\Debug\net6.0\TP07.pdb
+E:\! IUT INFO\Semestre 2\R201 - Développement orienté objets\TP\TP07\TP07\obj\Debug\net6.0\TP07.genruntimeconfig.cache
+E:\! IUT INFO\Semestre 2\R201 - Développement orienté objets\TP\TP07\TP07\obj\Debug\net6.0\ref\TP07.dll
