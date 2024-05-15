@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\td946724\\.nuget\\packages\\": {},
+    "C:\\Users\\lh665779\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\! IUT INFO\\Semestre 2\\R201 - Développement orienté objets\\TP\\TP07\\TP07\\TP07.csproj",
+      "projectUniqueName": "C:\\Users\\lh665779\\Source\\Repos\\TP07\\TP07.csproj",
       "projectName": "TP07",
-      "projectPath": "F:\\! IUT INFO\\Semestre 2\\R201 - Développement orienté objets\\TP\\TP07\\TP07\\TP07.csproj",
-      "packagesPath": "C:\\Users\\td946724\\.nuget\\packages\\",
-      "outputPath": "F:\\! IUT INFO\\Semestre 2\\R201 - Développement orienté objets\\TP\\TP07\\TP07\\obj\\",
+      "projectPath": "C:\\Users\\lh665779\\Source\\Repos\\TP07\\TP07.csproj",
+      "packagesPath": "C:\\Users\\lh665779\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lh665779\\Source\\Repos\\TP07\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\td946724\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lh665779\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -11,7 +11,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Wheel w2 = new Wheel(w1);
             Console.WriteLine(w1 == w2); // doit indiquer false
             Console.WriteLine(w1.Equals(w2)); // doit indiquer true
-
+            Console.WriteLine(w2.Equals(w1) );
         }
     }
 }
